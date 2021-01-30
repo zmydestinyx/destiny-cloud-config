@@ -1,9 +1,6 @@
 info:
   profile: dev
  
- test: 'fuck'
- 
- search:
-   enable: true
+ test: fuck
     
  
