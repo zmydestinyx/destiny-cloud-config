@@ -1,0 +1,9 @@
+# 数据库链接串 & 密码
+mariadb:
+  url: 'jdbc:mysql://localhost:3306/destiny-cloud-item?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=UTC'
+  password: '{cipher}0fb5b1846606a735cda3ef1fd2f98dd6d8882265fd69e243aac142a31dcad559'
+  
+# 功能开关 开启/关闭注册功能
+userservice:
+  registration:
+    disabled: true
